@@ -1,6 +1,6 @@
 # Pembaruan
 
-Unduh installer terbaru dari **[GitHub Releases](https://github.com/musalabsid/kiddy-land/releases)** dan install di atas versi lama.
+Unduh installer terbaru dari **[GitHub Releases](https://github.com/musa-labs-indonesia/kiddy-land/releases)** dan install di atas versi lama.
 
 - **Windows** — jalankan `desktop_<version>_x64-setup.exe` (atau `.msi`) baru. Mengganti aplikasi; data tetap.
 - **Linux** — `sudo apt install ./desktop_<versi-baru>_amd64.deb`.

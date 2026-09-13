@@ -11,7 +11,7 @@ export default defineConfig({
         nav: [
           {
             text: "Download v0.1.4",
-            link: "https://github.com/musalabsid/kiddy-land/releases",
+            link: "https://github.com/musa-labs-indonesia/kiddy-land/releases",
           },
         ],
         sidebar: [
@@ -73,7 +73,7 @@ export default defineConfig({
         nav: [
           {
             text: "Unduh v0.1.4",
-            link: "https://github.com/musalabsid/kiddy-land/releases",
+            link: "https://github.com/musa-labs-indonesia/kiddy-land/releases",
           },
         ],
         sidebar: [
@@ -132,7 +132,7 @@ export default defineConfig({
   },
   themeConfig: {
     socialLinks: [
-      { icon: "github", link: "https://github.com/musalabsid/kiddy-land" },
+      { icon: "github", link: "https://github.com/musa-labs-indonesia/kiddy-land" },
       {
         icon: "youtube",
         link: "https://www.youtube.com/playlist?list=PLe125EcIbh3A",

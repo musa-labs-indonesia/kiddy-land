@@ -3,7 +3,7 @@
 > 🎬 **Video tutorial:** [Kiddy Land video walkthrough](https://www.youtube.com/playlist?list=PLe125EcIbh3A) — watch along while setting up.
 
 1. **Install the Host app** on the Owner's PC — download from
-   [GitHub Releases](https://github.com/musalabsid/kiddy-land/releases) (see Install).
+   [GitHub Releases](https://github.com/musa-labs-indonesia/kiddy-land/releases) (see Install).
 2. **Launch** → create the Owner account → **Host Overview** opens.
 3. **Stabilize the Host IP** → see Network → Windows Static IP _or_ Router Reservation.
    This prevents `192.168.1.x` from changing (phones would lose connection).

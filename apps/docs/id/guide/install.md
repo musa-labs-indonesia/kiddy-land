@@ -1,6 +1,6 @@
 # Instalasi
 
-Unduh dari **[GitHub Releases](https://github.com/musalabsid/kiddy-land/releases)** — pilih sesuai OS.
+Unduh dari **[GitHub Releases](https://github.com/musa-labs-indonesia/kiddy-land/releases)** — pilih sesuai OS.
 
 ## Windows
 

@@ -1,6 +1,6 @@
 # Updates
 
-Download the newest installer from **[GitHub Releases](https://github.com/musalabsid/kiddy-land/releases)** and install it over the old one.
+Download the newest installer from **[GitHub Releases](https://github.com/musa-labs-indonesia/kiddy-land/releases)** and install it over the old one.
 
 - **Windows** — run the new `desktop_<version>_x64-setup.exe` (or `.msi`). Replaces the app; data preserved.
 - **Linux** — `sudo apt install ./desktop_<new-version>_amd64.deb`.
