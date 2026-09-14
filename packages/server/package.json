@@ -27,5 +27,6 @@
     "@types/node": "^24",
     "@types/ws": "^8.18.1",
     "typescript": "~6"
-  }
+  },
+  "license": "MIT"
 }

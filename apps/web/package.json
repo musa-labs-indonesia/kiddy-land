@@ -40,5 +40,6 @@
       "esbuild",
       "lightningcss"
     ]
-  }
+  },
+  "license": "MIT"
 }
